@@ -3,7 +3,7 @@
 # Hey, I'm Kian. 👋🏽
 
 ```javascript
-'I mostly use' JavaScript 'for my projects.'
+'I mainly use' JavaScript 'for my projects.'
 organization(SolydBot)
 ```
 </span>
