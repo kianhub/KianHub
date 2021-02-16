@@ -1,5 +1,9 @@
 <span align="center">
  
-# Hey, this is Kian. 
-You will probably not see any commits since they are all private. 😩😂
+# Hey, I'm Kian. 👋🏽
+
+```javascript
+'I mainly use' JavaScript 'for my projects.'
+organization(SolydBot)
+```
 </span>
